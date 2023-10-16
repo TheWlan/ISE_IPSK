@@ -1,0 +1,8 @@
+# Ignore a specific file
+creds.py
+
+# Ignore all .log files
+*.log
+
+# Ignore all .tmp files anywhere in the repository
+**/*.tmp
