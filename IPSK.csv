@@ -1,0 +1,7 @@
+name,description,mac,group_name
+Name Test1,description Test1,aa:aa:aa:aa:aa:aa,EG_MET_VLAN100
+Name Test2,description Test2,bb:bb:bb:bb:bb:bb,EG_MET_VLAN100
+Name Test3,description Test3,cc:cc:cc:cc:cc:cc,EG_DMS_VLAN101
+Name Test4,description Test4,ab:bb:bb:bb:bb:bb,EG_MET_VLAN101_PLAT
+Name Test5,description Test5,ac:bb:bb:bb:bb:bb,EG_MET_VLAN101
+Name Test6,description Test6,ad:bb:bb:bb:bb:bb,EG_MET_VLAN100
