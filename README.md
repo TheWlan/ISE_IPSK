@@ -7,9 +7,9 @@ Create file called creds.py with following:
 
 \#creds.py
 
-\#Define the ISE credentials
-USERNAME = "Username"
-PASSWORD = "Password"
-ISE_IP = "ISE_IP Address"
+\#Define the ISE credentials  
+USERNAME = "Username"  
+PASSWORD = "Password"  
+ISE_IP = "ISE_IP Address"  
 
 
